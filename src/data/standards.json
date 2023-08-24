@@ -524,5 +524,33 @@
     "helpText": "",
     "addedComponent": null,
     "label": "Transport Rule Templates"
+  },
+  {
+    "name": "standards.AuditLogExtra",
+    "cat": "Global",
+    "helpText": "This is the default helptext",
+    "addedComponent": null,
+    "label": "(TM) Enable the Extra Unified Audit Log Actions"
+  },
+  {
+    "name": "standards.MailSendReceiveSizeLimit",
+    "cat": "Exchange",
+    "helpText": "This is the default helptext",
+    "addedComponent": null,
+    "label": "(TM)Sets Mailbox Max Send/Receive Limit to 150MB"
+  },
+  {
+    "name": "standards.IRMConfig",
+    "cat": "Global",
+    "helpText": "This is the default helptext",
+    "addedComponent": null,
+    "label": "(TM)Set the IRM Config"
+  },
+  {
+    "name": "standards.DeletedItemsRetention",
+    "cat": "Exchange",
+    "helpText": "This is the default helptext",
+    "addedComponent": null,
+    "label": "(TM)Set Deleted Items Retention Policy"
   }
 ]
